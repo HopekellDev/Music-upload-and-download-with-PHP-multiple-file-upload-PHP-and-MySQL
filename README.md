@@ -1,0 +1,2 @@
+# Music-upload-and-download-with-PHP-multiple-file-upload-PHP-and-MySQL-
+Music upload and download with PHP multiple file upload (PHP and MySQL) is a PHP script made by Ezenwa Hopekell for educational and refence purposes. This script can upload song and cover art at the same time and I also included a download counter, likes and dislikes functionality, and also a jPlayer audio player is included too.
