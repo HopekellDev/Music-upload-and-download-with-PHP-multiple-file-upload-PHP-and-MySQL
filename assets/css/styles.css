@@ -1,0 +1,37 @@
+/*
+CSS manually made by
+EZENWA HOPEKELL
+ino@hopekelltech.com.ng
+www.hopekelltech.com.ng
+*/
+a{
+	text-decoration: none;
+}
+body{
+	background: #eceae7;
+}
+label{
+	font-weight: bold;
+	color: #999;
+}
+.container{
+	padding-top: 50px;
+}
+.upload{
+	background: #fff;
+	max-width: 50%;
+	border-radius: 8px;
+	box-shadow: 0px 0px 8px #888;
+	padding: 40px 20px;
+	margin: auto;
+}
+.card{
+	padding: 50px; 
+}
+.raised:hover{
+	box-shadow: 3px 3px 5px #999;
+	padding: 2px;
+}
+.jp-audio{
+	width: 100%!important;
+}
